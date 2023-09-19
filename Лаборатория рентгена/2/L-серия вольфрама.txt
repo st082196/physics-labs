@@ -1,0 +1,9 @@
+https://physics.nist.gov/PhysRefData/XrayTrans/Html/search.html
+
+[Å]
+L_alpha_1 (L3M4) = 1.476 3112(95)
+L_alpha_2 (L3M5) = 1.487 452(30)  
+L_beta_1 (L2M4) = 1.281 812(13)
+L_beta_2 (L3N5) = 1.244 3048(98)
+L_beta_3 (L1M3) = 1.262 708(60)
+L_beta_4 (L1M2) = 1.301 640(74)

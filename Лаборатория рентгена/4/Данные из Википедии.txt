@@ -1,0 +1,16 @@
+https://en.wikipedia.org/wiki/Lattice_constant#List_of_lattice_constants
+https://en.wikipedia.org/wiki/Caesium_bromide
+https://en.wikipedia.org/wiki/Ionic_radius
+
+CsCl.a = 4.123
+CsBr.a = 4.291
+CsI.a = 4.567
+KCl.a = 6.29
+KBr.a = 6.60
+KI.a = 7.07
+
+Cs.R = 1.67
+K.R = 1.38
+Cl.R = 1.81
+Br.R = 1.96
+I.R = 2.20
